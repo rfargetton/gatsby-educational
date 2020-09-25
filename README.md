@@ -1,4 +1,4 @@
-<h1 align="center">gatsby-course-starter</h1> <br>
+# Gatsby educational site :books:
 
 A Gatsby starter site for educational contents and purposes. It is based on [Brian Holt's repo](https://github.com/btholt/gatsby-course-starter) with some additional features, such as a dark/ligth theme switch and a simple [Styled Components](https://styled-components.com/) integration. 
 
